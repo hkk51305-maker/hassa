@@ -1,0 +1,26 @@
+[
+    {
+        "name":"azzuru",
+        "price":2300,
+        "color":"black"
+
+    },
+     {
+        "name":"azzuru",
+        "price":4550,
+        "color":"black"
+
+    },
+     {
+        "name":"louis viitoun",
+        "price":2700,
+        "color":"black"
+
+    },
+     {
+        "name":"chanel",
+        "price":2400,
+        "color":"black"
+
+    }
+]
